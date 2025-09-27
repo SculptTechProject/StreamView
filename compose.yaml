@@ -1,0 +1,7 @@
+﻿services:
+  streamview:
+    image: streamview
+    build:
+      context: .
+      dockerfile: Dockerfile
+
